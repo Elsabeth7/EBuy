@@ -1,0 +1,144 @@
+*{
+    margin:0;
+}
+
+h1{
+    margin:0;
+    font-size:24px;
+    background-color:#005ce6;
+    padding:5px;
+    color:white;
+
+}
+
+#btCancel1,#btCancel, #addProduct1, #userReset ,#addProduct,#productReset, #addUser{
+    margin-top:15px;
+    width:110px;
+    height:30px;
+    font-weight:bold;
+    font-size: 15px;
+    border-radius: 15px;
+    background-color:#005ce6;
+    margin-left:10px;
+    color:white;
+
+}
+
+#idTitle{
+
+    margin-top: 100px;
+    text-align: justify-all;
+
+}
+
+#idText{
+
+    margin-bottom: 200px;
+}
+
+#btCancel, .bt{
+    width:110px;
+
+
+    display:inline-block;
+
+
+}
+
+
+.fWelcome{
+    width:110px;
+    display: inline;
+}
+#idRigth{
+    margin:auto;
+    width:320px;
+}
+
+
+#userContent,#productContent{
+    margin-top: 10px;
+    width: 600px;
+    margin: auto;
+    background-color: #C0C0C0;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+    height: 570px;
+}
+
+label{
+    margin-top: 10px;
+    display: block;
+    width:120px;
+}
+
+#username,input[type="text"]{
+
+    width: 200px;
+}
+
+table th{
+    width:120px;
+    padding-top: 10px;
+    padding-left: 10px;
+    background-color: #C0C0C0;
+    font-weight: bold;
+    text-align:left;
+
+
+}
+
+
+table {
+    border-collapse: collapse;
+
+}
+/*
+
+td{
+    border: solid 1px #005ce6;;
+}
+*/
+
+#listProduct{
+    width: 700px;
+    margin: auto;
+}
+
+footer{
+    background-color:#005ce6;
+    height: 40px;
+}
+
+fieldset{
+    width: 550px;
+    margin: auto;
+    height: 550px;
+
+}
+
+#btn, #bt2{
+    float: left;
+    width: 260px;
+}
+
+tr:nth-child(even) {background: #CCC}
+
+
+h1 a{
+    color:white;
+
+}
+
+#content{
+
+    height: 630px;
+}
+.smaller{
+
+    margin: auto;
+
+    width: 100px;
+    height: 100px;
+}
